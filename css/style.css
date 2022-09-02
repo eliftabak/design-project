@@ -109,27 +109,14 @@
  display: none;
 }
 
-@media only screen and (min-width: 425px) {
- .text-container {
-  height: 45%;
-  width: 100%;
-  top: 39%;
- }
-
- .text-container p {
-  margin-top: 15%;
- }
-}
-
 @media only screen and (min-width: 600px) {
  .text-container {
-  height: 75%;
-  top: 52%;
+  height: 50%;
+    top: -35%;
  }
 
  .text-container p {
   font-size: 31px;
-  margin-top: 35%;
  }
 
  .product-slider {
