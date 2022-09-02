@@ -182,9 +182,9 @@
 
  .text-container {
   color: black;
-  position: inherit;
   background: none;
   height: auto;
+  position: unset;
  }
 
  .text-container a {
@@ -206,10 +206,6 @@
   font-weight: 400;
   margin-top: 12px;
   margin-bottom: 32px;
- }
-
- .text-container p {
-  width: 70%;
  }
 
  .product-slider {
