@@ -1,4 +1,4 @@
-# digifist-project
+# design-project
 
 This is a project created from a figma design.
 
